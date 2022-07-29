@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-Software development, start-ups and pizza 🍕
+Get in touch if you want to talk about software development, start-ups or pizza 🍕
 </p>
 
 
